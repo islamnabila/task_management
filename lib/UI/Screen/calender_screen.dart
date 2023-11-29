@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'package:task_management/Style/style.dart';
 
-import '../Widget/gridview_card_item.dart';
 import '../Widget/task_card_item.dart';
 
 class CalenderScreen extends StatefulWidget {
